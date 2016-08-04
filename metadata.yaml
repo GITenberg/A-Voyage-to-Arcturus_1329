@@ -1,0 +1,31 @@
+_repo: A-Voyage-to-Arcturus_1329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, David
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '604'
+    url: http://www.gutenberg.org/2009/agents/604
+    wikipedia: http://en.wikipedia.org/wiki/David_Lindsay_%28novelist%29
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Science Fiction
+gutenberg_issued: '1998-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Quests (Expeditions) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: A Voyage to Arcturus
+url: http://www.gutenberg.org/ebooks/1329
